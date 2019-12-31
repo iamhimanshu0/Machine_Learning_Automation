@@ -1,5 +1,5 @@
 # iris_data_classification_Web_App
-IRIS Data Classification using Streamlit package.... 
+Machine Learning/Data Science Automation
 
 #Required Files
 setup.sh
